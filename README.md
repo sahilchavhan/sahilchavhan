@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/SahilCh82306227" target="blank"><img src="https://img.shields.io/twitter/follow/SahilCh82306227?logo=twitter&style=for-the-badge" alt="SahilCh82306227" /></a> </p>
 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **AWS and cloud**
 
-- 💬 Ask me about **Frontend and Web development**
+- 💬 Ask me about **Frontend and Full-stack development**
 
 - 📫 How to reach me **sahilchavhan57@gmail.com**
 
